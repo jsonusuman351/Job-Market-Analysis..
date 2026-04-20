@@ -1,0 +1,120 @@
+
+PRDA – 04 Job Market Analysis
+Internship Project Report
+
+1. States with Most Number of Jobs
+The analysis shows that data science related job postings are concentrated in a few states.
+
+Top 5 States:
+State  Job_Count
+   CA        152
+   MA        103
+   NY         72
+   VA         41
+   IL         40
+
+2. Average Minimal and Maximal Salaries in Different States
+Salary ranges vary significantly by state.
+
+Top 5 States by Lower Salary:
+State  Lower_Salary  Upper_Salary
+   CA     92.427632    154.598684
+   DC     88.636364    131.727273
+   IL     88.350000    144.975000
+   MA     78.689320    136.300971
+   MI     77.000000    123.500000
+
+3. Average Salary in Different States
+Some states offer higher average salaries than others.
+
+Top 5 States by Average Salary:
+State  Avg_Salary_K
+   CA    123.513158
+   IL    116.662500
+   DC    110.181818
+   MA    107.495146
+   NJ    104.558824
+
+4. Top 5 Industries with Maximum Number of Data Science Related Job Postings
+                        Industry  Job_Count
+       Biotech & Pharmaceuticals        122
+              Insurance Carriers         63
+    Computer Hardware & Software         59
+                     IT Services         50
+Health Care Services & Hospitals         49
+
+5. Companies with Maximum Number of Job Openings
+                    Company_Name  Job_Count
+                      MassMutual         14
+               Reynolds American         14
+          Takeda Pharmaceuticals         14
+  Software Engineering Institute         11
+                            PNNL         10
+        Liberty Mutual Insurance         10
+                     AstraZeneca          9
+                           MITRE          8
+                    Numeric, LLC          7
+Advanced BioScience Laboratories          7
+
+6. Job Titles with Most Number of Jobs
+                Job_Title  Job_Count
+           Data Scientist        131
+            Data Engineer         53
+    Senior Data Scientist         34
+             Data Analyst         15
+     Senior Data Engineer         14
+      Senior Data Analyst         12
+      Lead Data Scientist          8
+   Marketing Data Analyst          6
+        Sr. Data Engineer          6
+Machine Learning Engineer          5
+
+7. Salary of Job Titles with Most Number of Jobs
+                                             Job_Title  Avg_Salary_K
+             Director II, Data Science - GRM Actuarial         254.0
+                  Principal Machine Learning Scientist         232.5
+Principal Data Scientist with over 10 years experience         225.0
+                                    Lead Data Engineer         205.0
+  Director II, Data Science - GRS Predictive Analytics         194.5
+                       Staff Machine Learning Engineer         181.0
+                                Director, Data Science         179.5
+                              Principal Data Scientist         176.3
+                                      Sr. Scientist II         174.0
+                           Senior Quantitative Analyst         173.0
+
+8. Skills Required by Companies for Each Job Title
+Most demanded skills overall:
+    Skill  Count
+   Python    0.0
+    spark    0.0
+      aws    0.0
+    excel    0.0
+      sas    0.0
+    keras    0.0
+  pytorch    0.0
+   scikit    0.0
+   tensor    0.0
+   hadoop    0.0
+  tableau    0.0
+       bi    0.0
+    flink    0.0
+    mongo    0.0
+google_an    0.0
+
+
+9. Relation between Average Salary and Education
+Degree  Avg_Salary_K
+     P    115.981308
+     M    105.634921
+    na     94.703655
+
+
+10. Suggestions to Company
+- Focus on hiring in states with more opportunities and high salary competitiveness.
+- Prioritize Python, SQL, AWS, Spark, and Tableau skills.
+- Benchmark salaries by state and job title.
+- Encourage employee upskilling.
+- Use clear job descriptions to attract better candidates.
+
+11. Conclusion
+This project analyzes job market trends, skill demand, salary patterns, industries, and companies to provide insights useful for both employers and job seekers.
